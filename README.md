@@ -7,6 +7,7 @@ This file is pretty large in terms of size (10000+ lines of code) so if you have
 ## NOTICE FOR PEOPLE USING ARCHIVE.ORG
 If you are going to view images from the CSS using Archive.org, add the following before the image link:
 `http://web.archive.org/web/20120320185848im_/`
+
 This will take you to a version of the website from March 21st, 2012. It'll let you view all the images you need
 
 ## EXTRA NOTICE
